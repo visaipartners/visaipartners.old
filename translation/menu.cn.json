@@ -1,0 +1,12 @@
+[
+  {
+    "name": "家",
+    "icon": "home",
+    "url": "home"
+  },
+  {
+    "name": "关于我们",
+    "icon": "info",
+    "url": "about-us"
+  }
+]

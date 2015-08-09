@@ -1,0 +1,1 @@
+Nós construímos pela china. De facto, a China tem sido generosa.

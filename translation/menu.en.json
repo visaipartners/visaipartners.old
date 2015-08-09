@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Home",
+    "icon": "home",
+    "url": "home"
+
+  },
+  {
+    "name": "About us",
+    "icon": "info",
+    "url": "about-us"
+  }
+]

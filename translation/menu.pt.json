@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Início",
+    "icon": "home",
+    "url": "home"
+  },
+  {
+    "name": "Acerca",
+    "icon": "info",
+    "url": "about-us"
+  }
+]

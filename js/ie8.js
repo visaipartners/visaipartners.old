@@ -1,0 +1,1 @@
+document.getElementsByClassName||(document.getElementsByClassName=function(){function a(b,c){c(b);for(var d=0;d<b.childNodes.length;d++)a(b.childNodes[d],c)}return function(b){var c=[];return a(document.body,function(a){a.className==b&&c.push(a)}),c}}());
